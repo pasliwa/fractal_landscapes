@@ -14,4 +14,4 @@ Close this window and a 3D picture will show up - it is used in game-dev to simu
 For more advanced functions check help file (type: python3 diamond_square.py -h)
 
 
-More information (Polish): www.regulomics.mimuw.edu.pl/wp/2016/04/ona-zadanie-zaliczeniowe-1/
+More information (Polish): http://regulomics.mimuw.edu.pl/wp/2016/04/ona-zadanie-zaliczeniowe-1/
